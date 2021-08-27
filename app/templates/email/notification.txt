@@ -1,0 +1,3 @@
+Hello, a new updates  has been made, head over to the post to view it,Thank you.
+
+{{user_fname}} {{user_lname}}.
